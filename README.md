@@ -1,4 +1,4 @@
-# Combate Prompter - S11E03 Venustiano Carranza
+# Combate Prompter
 
 WebApp de Prompter sincronizado para la grabación del podcast **Combate**.
 Diseñada para separar la vista del **Host** (Narrativa completa + Cues) y del **Co-Host** (Contexto reducido + Fichas de Combate).
